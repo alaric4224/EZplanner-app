@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402528029382",
+    "firebase_url": "https://ezplanner-2b638.firebaseio.com",
+    "project_id": "ezplanner-2b638",
+    "storage_bucket": "ezplanner-2b638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402528029382:android:7ef9c00fc62308f6a865c7",
+        "android_client_info": {
+          "package_name": "com.example.ezplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402528029382-qrivur3mevnv7p50qjakrlnmsbmn994t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxVLPqSq_TQn41UV37sKCf5ZWmgeqdwRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402528029382-qrivur3mevnv7p50qjakrlnmsbmn994t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
