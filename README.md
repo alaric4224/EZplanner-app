@@ -10,6 +10,7 @@ Go to the downloads section of your computer and extract the zip file to a new f
 
 ### Finding AndroidStudioProjects folder
 Typically, the AndroidStudioProjects folder can be found under the following directory
+
 C:\Users\<usrname>\AndroidStudioProjects
 
 ## Running the application
